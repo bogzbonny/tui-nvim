@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/57725322/167266328-fc6f8e57-c90f-4342-
 
 ## Usage:
 tui-nvim does not come with any builtin support any terminal programs.
-Intead, the user supports their own terminal programs.
+Instead, the user supports their own terminal programs.
 
 If an option such as `height` is not provided, it will fallback to the defaults or the configuration found in `require("tui-nvim").setup()`
 
